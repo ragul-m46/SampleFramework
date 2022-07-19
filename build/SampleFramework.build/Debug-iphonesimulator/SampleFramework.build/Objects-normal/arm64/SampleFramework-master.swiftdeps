@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "0b006add479e9aa98317c057726c894f0cf89957c3df1bab8aae4d21824b3624"
+build_start_time: [1658209622, 61616897]
+build_end_time: [1658209622, 373424053]
+inputs:
+  "/Users/mac-obs-18/App Development/Framework Task/SampleFramework/SampleFramework/SubFrameworkHome.swift": [1657784382, 234455585]

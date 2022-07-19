@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mac-obs-18/Library/Developer/Xcode/DerivedData/SampleFramework-fpzfvvbwqmsbyudjbnwysiurdfix/Build/Products/Debug-iphonesimulator/SampleFramework.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mac-obs-18/App Development/Framework Task/SampleFramework/build/SampleFramework.build/Debug-iphonesimulator/SampleFramework.build/unextended-module.modulemap",
+    }]
+  }]
+}

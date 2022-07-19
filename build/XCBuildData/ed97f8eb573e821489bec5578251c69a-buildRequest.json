@@ -1,0 +1,48 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "eefb541e042a385bec9d4ab5f931e4bb77ccc1342bebfde51632c5d1888a2b94"
+    }
+  ],
+  "containerPath" : "/Users/mac-obs-18/App Development/Framework Task/SampleFramework/SampleFramework.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "configurationName" : "Debug",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "BUILD_DIR" : "/Users/mac-obs-18/Library/Developer/Xcode/DerivedData/SampleFramework-fpzfvvbwqmsbyudjbnwysiurdfix/Build/Products",
+          "BUILD_ROOT" : "/Users/mac-obs-18/Library/Developer/Xcode/DerivedData/SampleFramework-fpzfvvbwqmsbyudjbnwysiurdfix/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "OTHER_CFLAGS" : "-fembed-bitcode",
+          "SDKROOT" : "iphonesimulator15.5",
+          "TOOLCHAINS" : "com.apple.dt.toolchain.XcodeDefault"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "build",
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      },
+      "toolchainOverride" : "com.apple.dt.toolchain.XcodeDefault"
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
